@@ -1,4 +1,4 @@
-# U2I CV
+# CV
  This is project made for my recruitment. <br>
  It shows of my skill in html and css as well as showes of my creativity extreamly important on my targeted job. <br>
  I also have skills in js and react framework but unluckyly I had short time to show them off in this project. <br>
